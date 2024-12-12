@@ -30,5 +30,3 @@ def merge(list1,list2):
 my_list=[1,2,7,8,3,4,5,6]
 sorted_list=merge_sort(my_list)
 print('Sorted list is :',sorted_list)
-
-
